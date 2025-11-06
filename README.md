@@ -1,6 +1,6 @@
 ## Miles Libbey (that's me!)
 
-#### Website: [https://mileslv.github.io/]
+#### Website: [https://mileslv.github.io](https://mileslv.github.io)
 
 ### Hi!
 I'm a recent Data Science graduate from Macalester College focused on starting my career in data! 
