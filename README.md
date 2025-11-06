@@ -36,6 +36,6 @@ Currently , I’m focused on:
 Please reach me at mlibbeyv@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/miles-libbey-v) if you notice anything I can improve on in my code (or any potential future directions), any new project ideas, or any events / webinars!
 
 ### Quick Fun Facts About Me
-* I have 10 Snoopy shirts (in-counting)
+* I have 10 Snoopy shirts (and counting)
 * I'm the fifth Miles Libbey (I have a V at the end of my name)
 * I memorized the periodic table 5 years ago and can still tell you either the atomic number given an element or the element given an atomic number (with a margin of $\pm 2$)
