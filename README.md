@@ -9,7 +9,7 @@ I'm currently working on a few projects across different areas:
 
 1. **R + GraphQL Nonprofit Mapping Project**  
    An expansion of my previous project that uses **R** and **GraphQL** to map the reach of U.S. nonprofit organizations in rural areas.  
-   It visualizes which causes are available where, how well-funded they are, and integrates data from [CharityNavigator](https://www.charitynavigator.org/).
+   It visualizes which causes are available where, how well-funded they are, and integrates data from [CharityNavigator](https://www.charitynavigator.org/) and the [IRS](https://www.irs.gov/charities-non-profits/form-990-series-downloads).
 
 2. **Multi-Agentic AI Research & Summarization Tools (Python + [n8n](https://n8n.io/))**  
    - One project creates a multi-agent AI that can research any topic, produce a robust summary covering all perspectives and potential biases, and properly cite its sources.  
@@ -36,6 +36,6 @@ Currently , I’m focused on:
 Please reach me at mlibbeyv@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/miles-libbey-v) if you notice anything I can improve on in my code (or any potential future directions), any new project ideas, or any events / webinars!
 
 ### Quick Fun Facts About Me
-* I have 10 Snoopy shirts (and counting)
+* I have 11 Snoopy shirts (and counting)
 * I'm the fifth Miles Libbey (I have a V at the end of my name)
 * I memorized the periodic table 5 years ago and can still tell you either the atomic number given an element or the element given an atomic number (with a margin of $\pm 2$)
